@@ -5,11 +5,11 @@
 
 Lệnh dê cấu hình Git:
 
-'''
+```
 git config --global user.name"Name"
 
 git config --global user.email"abc@Zy.com"
-'''
+```
 
 ## Phần 2 _ Khởi tạo Git repo
 
@@ -19,7 +19,7 @@ Lệnh đề khởi tạo Git repo là: ' git int'
 
 Dùng hai lệnh dề comit thay đổi lên Git repo:
 
-'''
+```
 git add.
 git commit -m "Thông điệp commit"
 
